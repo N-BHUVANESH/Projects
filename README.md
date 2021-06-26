@@ -13,7 +13,7 @@
 <summary>Project 2</summary>
 <p>
 
-- ✔ [Done a Project to Dashboard a Data set. "Data Science"](https://colab.research.google.com/drive/1wPczqcRgfX2WEnlRq2JT13AYrN7OyfNT?usp=sharing)
+- ✔ [Done a Project to Dashboard a Data set. "Data Science"](Dashboarding Project.xlsx)
 
 </p></details>
 
