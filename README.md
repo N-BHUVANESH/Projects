@@ -13,7 +13,7 @@
 <summary>Project 2</summary>
 <p>
 
-- ✔ [Done a Project to Dashboard a Data set. "Data Science"](Dashboarding Project.xlsx)
+- ✔ [Done a Project to Dashboard a Data set. "Data Science"](https://github.com/N-BHUVANESH/Projects/blob/25507ce3bce3ddf3f05e53c9a2eb9f83ec753e91/Dashboarding%20Project.xlsx)
 
 </p></details>
 
