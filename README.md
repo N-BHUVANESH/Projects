@@ -18,3 +18,14 @@
 </p></details>
 
 
+<details>
+<summary>Project 3</summary>
+<p>
+
+- ✔ [A Journey to the Mariana Trench](https://n-bhuvanesh.github.io/Mariana-Trench/
+)
+
+</p></details>
+
+
+
