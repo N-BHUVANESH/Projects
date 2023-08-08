@@ -53,3 +53,16 @@
 
 </p></details>
 
+
+
+
+<details>
+<summary>Project 6</summary>
+<p>
+
+- ✔ [Tic Tac Toe](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
+)
+- ✔ [Source](https://github.com/N-BHUVANESH/Tic-Tac-Toe.git
+)  
+
+</p></details>
